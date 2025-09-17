@@ -1,18 +1,21 @@
 //steps
-
 //1 listen to the event of clicking the button
+
 let button;
 button = document.getElementById('button');
-button.addEventListener("click", bgcolour);
+console.log(button);
+
+//2 listen to event click on the button
+button.addEventListener("click", bgcolour, fscolour);
 
 //2 make the background color change to black 
 function bgcolour(){
    // console.log("increasing counter");
-    document.body.style.background = "#000000"
+    document.body.style.background = "#000000";
 }
 
-//3 make the second sentence appear 
-//???
+//3 change the color of the second sentence to yellow
+function fscolour (){
+    document.getElementById("second-sentence").style.color = "#FFFF00";
+}
 
-//4 change the color of the second sentence
-//??
