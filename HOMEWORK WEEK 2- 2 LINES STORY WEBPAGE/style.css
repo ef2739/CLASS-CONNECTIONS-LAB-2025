@@ -18,7 +18,9 @@ h1{
 
 
 .second-sentence{
+    color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 3rem;
     align-items: flex-end;
+   
 }
