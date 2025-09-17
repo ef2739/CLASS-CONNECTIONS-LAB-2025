@@ -1,4 +1,7 @@
 //steps
+
+alert("Content may be triggering // abuse, phsichological violence");
+
 //1 listen to the event of clicking the button
 
 let button;
