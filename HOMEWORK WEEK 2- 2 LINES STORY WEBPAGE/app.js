@@ -18,7 +18,7 @@ button.addEventListener("click", bgcolour, fscolour);
 //2 make the background color change to black 
 function bgcolour() {
     // console.log("increasing counter");
-    document.body.style.background = "#000000";
+    document.body.style.backgroundColor = "#000000";
 }
 
 
