@@ -1,15 +1,15 @@
 {
   "title": "Children in War Zones 1945-2025",
   "description": "Historical collection of images and descriptions of children affected by armed conflicts",
-  "years": [
+  "wars": [
 
     {
       "year": 1945,
       "conflict": "End of World War II",
       "location": "Europe/Asia",
       "image_url": "https://encyclopedia.ushmm.org/images/large/50083758-e1cc-458c-86a0-173b2f517d99.jpg",
-      "description": "Some children, survivors of the Auschwitz concentration camp, emerge from their barracks shortly after liberation. Poland, after January 27, 1945. On the 27th of January 1945, Auschwitz is liberated. Months later, WWII will end. Children were especially vulnerable to Nazi persecution.  As many as 1.5 million Jewish children alone were murdered or died at the hands of Nazi officials or their collaborators. ",
-      "estimated_affected": "1.5 million Jewish children",
+      "description": "Some children, survivors of the Auschwitz concentration camp, emerge from their barracks shortly after liberation. Poland, after January 27, 1945 / On the 27th of January 1945, Auschwitz is liberated. Months later, WWII will end. Children were especially vulnerable to Nazi persecution.  As many as 1.5 million Jewish children alone were murdered or died at the hands of Nazi officials or their collaborators. ",
+      "estimated_affected": "1.5 million",
       "sources": ["https://encyclopedia.ushmm.org/content/en/article/plight-of-jewish-children?series=16"]
     },
     {
@@ -18,8 +18,8 @@
       "location": "Greece",
       "image_url": "https://collections-server.arolsen-archives.org/V/Ous_partitions/31/0701/aa/sj/ew/001.jpg",
       "image2_url": "https://old.greekcommunity.com.au/gocmv_public/images/eventlist/events/child_migration_1412661129.jpg",
-      "description": "The Greek Civil War (1946-1949) created conditions whereby children were removed from their homes out of war zones and into neighbouring Eastern European countries.The result was that approximately 28,000 children crossed the borders in Eastern European countries during the course of the Civil War.",
-      "estimated_affected": "28000",
+      "description": "The Greek Civil War (1946-1949) created conditions whereby children were removed from their homes out of war zones and into neighbouring Eastern European countries. The result was that approximately 28,000 children crossed the borders in Eastern European countries during the course of the Civil War.",
+      "estimated_affected": "28.000",
       "sources": ["https://old.greekcommunity.com.au/gocmv_public/index.php/el/eventlist/details/312-open-lecture-the-greek-civil-war-and-child-migration-to-australia", "https://collections.arolsen-archives.org/en/archive/7-12_11000650"]
     },
     {
@@ -27,8 +27,8 @@
       "conflict": "Korean War",
       "location": "Korea",
       "image_url": "https://www.unicef.org/sites/default/files/styles/media_large_image/public/UNI43171.jpg.webp?itok=xpYEHzZs",
-      "description": "1950: A student in Suwon prepares to drink her daily ration of milk, provided by UNICEF ( UNICEF/UNI43171/Fowler Republic of Korea). It is estimated over 100,000 Korean children were orphaned or displaced during the Korean War, separated from their parents by death, geography and poverty.",
-      "estimated_affected": "1 million",
+      "description": "1950: A student in Suwon prepares to drink her daily ration of milk, provided by UNICEF ( UNICEF/UNI43171/Fowler Republic of Korea) / It is estimated over 100,000 Korean children were orphaned or displaced during the Korean War, separated from their parents by death, geography and poverty.",
+      "estimated_affected": "100.000",
       "sources": ["https://www.awm.gov.au/articles/blog/koreanwar70years/online-exhibitions/unforgotten-children#:~:text=It%20is%20estimated%20over%20100%2C000,into%20these%20relationships%20and%20interactions."]
     },
     {
@@ -44,10 +44,10 @@
       "year": 1975,
       "conflict": "Vietnam War (end)",
       "location": "Vietnam",
-      "image_url": "path/to/image_1975.jpg",
-      "description": "The end of the Vietnam War left thousands of children orphaned and traumatized. The use of Agent Orange caused birth defects that continued to affect children even in the years following the conflict.",
-      "estimated_affected": "500,000",
-      "sources": ["Vietnam War Legacy Studies", "WHO Reports"]
+      "image_url": "https://www.rollingstone.com/wp-content/uploads/2025/07/AP72060801062-credited-to-Nick.jpg?crop=35px%2C0px%2C1610px%2C1610px&resize=400%2C400",
+      "description": "Napalm Girl, June 8, 1972, Nick Ut / The picture captured the trauma and indiscriminate violence of a conflict that claimed, by some estimates, a million or more civilian lives. Officially titled “The Terror of War,” the photo is better known by the nickname given to the badly burned, naked 9-year-old at its center.",
+      "estimated_affected": "c.a. 84,000 war deaths among children (under age 15)",
+      "sources": [" https://newyork.fotografiska.com/en/events/napalm-girl", "https://edition.cnn.com/style/article/napalm-girl-50-snap", "Charles Hirschman, Samuel Preston, and Vu Manh Loi. 1995. “Vietnamese Casualties During the American War.” Population and Development Review 21: 783-812."]
     },
     {
       "year": 1979,
