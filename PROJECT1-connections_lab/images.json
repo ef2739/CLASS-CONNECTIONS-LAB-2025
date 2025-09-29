@@ -116,14 +116,13 @@
   ],
   "metadata": {
     "created": "2025",
-    "total_years_covered": 82,
+    "total_years_covered": 100,
     "data_sources": [
       "UNICEF",
       "UNHCR",
       "Save the Children",
       "Human Rights Watch",
-      "WHO",
-      "Red Cross/Red Crescent"
+      "WHO"
     ],
     "notes": "Estimates of affected children are approximate and based on multiple sources. Actual numbers could be significantly higher due to the difficulty of collecting accurate data during conflicts."
   }
