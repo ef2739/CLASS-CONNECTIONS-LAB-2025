@@ -35,8 +35,8 @@
       "conflict": "Six-Day War",
       "location": "Middle East",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Six_Day_War._Toddlers_with_their_nurses_outside_the_entrance_to_underground_shelter_at_kibbutz_Nahal_Oz._May_1967._D325-074.jpg/1599px-Six_Day_War._Toddlers_with_their_nurses_outside_the_entrance_to_underground_shelter_at_kibbutz_Nahal_Oz._May_1967._D325-074.jpg?20170605005648",
-      "description": "The Arab-Israeli conflict of 1967 created new waves of Palestinian refugees. Many children found themselves in refugee camps, where they would spend decades of their lives without a stable home.",
-      "estimated_affected": "The Six-Day War resulted in more than 15,000 Arab fatalities, while Israel suffered fewer than 1,000. No data on children fatalities",
+      "description": "he Six-Day War resulted in more than 15,000 Arab fatalities, while Israel suffered fewer than 1,000. No data on children fatalities. ",
+      "estimated_affected": "Arab fatalities: more than 15,000 Arab fatalities. Israel fatalities: fewer than 1,000.",
       "sources": ["https://en.wikipedia.org/wiki/Six-Day_War"]
     },
     {
@@ -44,7 +44,7 @@
       "conflict": "Vietnam War (end)",
       "location": "Vietnam",
       "image_url": "https://www.rollingstone.com/wp-content/uploads/2025/07/AP72060801062-credited-to-Nick.jpg?crop=35px%2C0px%2C1610px%2C1610px&resize=400%2C400",
-      "description": "Napalm Girl, June 8, 1972, Nick Ut / The picture captured the trauma and indiscriminate violence of a conflict that claimed, by some estimates, a million or more civilian lives. Officially titled “The Terror of War,” the photo is better known by the nickname given to the badly burned, naked 9-year-old at its center.",
+      "description": "Napalm Girl, June 8, 1972, Nick Ut / The picture captured the trauma and indiscriminate violence of a conflict that claimed, by some estimates, a million or more civilian lives. Officially titled “The Terror of War,” the photo is better known by the nickname given to the badly burned, naked 9-year-old at its center. Data indicate c.a. 84,000 war deaths among children (under age 15)",
       "estimated_affected": "c.a. 84,000 war deaths among children (under age 15)",
       "sources": [" https://newyork.fotografiska.com/en/events/napalm-girl", "https://edition.cnn.com/style/article/napalm-girl-50-snap", "Charles Hirschman, Samuel Preston, and Vu Manh Loi. 1995. “Vietnamese Casualties During the American War.” Population and Development Review 21: 783-812."]
     },
@@ -54,8 +54,8 @@
       "conflict": "Iran-Iraq War",
       "location": "Iran/Iraq",
       "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Children_In_iraq-iran_war3.jpg",
-      "description": " Military use of children in iran-iraq war in iranian fronts, unknown date ",
-      "estimated_affected": "218,867 Iranians died due to war injuries. Civilians fatalities (mostly women and children) account for 15.3% (N=33,430) of total deaths. A major consequence of these deaths was that it left more than 144,000 children orphaned.",
+      "description": " Military use of children in iran-iraq war in iranian fronts, unknown date / 218,867 Iranians died due to war injuries. Civilians fatalities (mostly women and children) account for 15.3% (N=33,430) of total deaths. A major consequence of these deaths was that it left more than 144,000 children orphaned. ",
+      "estimated_affected": "(mostly women and children) 15.3% (N=33,430) of total deaths.",
       "sources": ["https://www.redalyc.org/pdf/672/67240163025.pdf"]
     },
     {
@@ -72,7 +72,7 @@
       "conflict": "Kosovo War",
       "location": "Kosovo/Serbia",
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWTUkwAumSI8kc4HJYAfPismV32AdjJ89gTw&s",
-      "description": "During the war, regime forces killed between 7,000–9,000 Kosovar Albanians,engaged in countless acts of rape,destroyed entire villages, and displaced nearly one million people. Many of the wartime rape surbivors were young girls, from 13 to 19 years old. Mostly rape were committed paramilitaries associated with Arkan (serbian warlord) group, where the majority of rapes are carried out in the presence of children and men who later were killed.",
+      "description": "During the war, regime forces killed between 7,000–9,000 Kosovar Albanians,engaged in countless acts of rape,destroyed entire villages, and displaced nearly one million people. Many of the wartime rape surbivors were young girls, from 13 to 19 years old. Mostly rape were committed paramilitaries associated with Arkan (serbian warlord) group, where the majority of rapes are carried out in the presence of children and men who later were killed. More than 1,000 children lost their lives. ",
       "estimated_affected": "more than 1,000 children lost their lives during the conflict.",
       "sources": ["https://www.dw.com/en/remembering-kosovos-youngest-victims/a-49119249, https://en.wikipedia.org/wiki/War_crimes_in_the_Kosovo_War"]
     },
