@@ -16,8 +16,7 @@
       "year": 1946,
       "conflict": "Greek Civil War",
       "location": "Greece",
-      "image_url": "https://collections-server.arolsen-archives.org/V/Ous_partitions/31/0701/aa/sj/ew/001.jpg",
-      "image2_url": "https://old.greekcommunity.com.au/gocmv_public/images/eventlist/events/child_migration_1412661129.jpg",
+      "image_url": "https://old.greekcommunity.com.au/gocmv_public/images/eventlist/events/child_migration_1412661129.jpg",
       "description": "The Greek Civil War (1946-1949) created conditions whereby children were removed from their homes out of war zones and into neighbouring Eastern European countries. The result was that approximately 28,000 children crossed the borders in Eastern European countries during the course of the Civil War.",
       "estimated_affected": "28.000",
       "sources": ["https://old.greekcommunity.com.au/gocmv_public/index.php/el/eventlist/details/312-open-lecture-the-greek-civil-war-and-child-migration-to-australia", "https://collections.arolsen-archives.org/en/archive/7-12_11000650"]
@@ -35,10 +34,10 @@
       "year": 1967,
       "conflict": "Six-Day War",
       "location": "Middle East",
-      "image_url": "path/to/image_1967.jpg",
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Six_Day_War._Toddlers_with_their_nurses_outside_the_entrance_to_underground_shelter_at_kibbutz_Nahal_Oz._May_1967._D325-074.jpg/1599px-Six_Day_War._Toddlers_with_their_nurses_outside_the_entrance_to_underground_shelter_at_kibbutz_Nahal_Oz._May_1967._D325-074.jpg?20170605005648",
       "description": "The Arab-Israeli conflict of 1967 created new waves of Palestinian refugees. Many children found themselves in refugee camps, where they would spend decades of their lives without a stable home.",
-      "estimated_affected": "300,000",
-      "sources": ["UNRWA Reports", "Red Cross Middle East"]
+      "estimated_affected": "The Six-Day War resulted in more than 15,000 Arab fatalities, while Israel suffered fewer than 1,000. No data on children fatalities",
+      "sources": ["https://en.wikipedia.org/wiki/Six-Day_War"]
     },
     {
       "year": 1975,
@@ -49,113 +48,70 @@
       "estimated_affected": "c.a. 84,000 war deaths among children (under age 15)",
       "sources": [" https://newyork.fotografiska.com/en/events/napalm-girl", "https://edition.cnn.com/style/article/napalm-girl-50-snap", "Charles Hirschman, Samuel Preston, and Vu Manh Loi. 1995. “Vietnamese Casualties During the American War.” Population and Development Review 21: 783-812."]
     },
+    
     {
-      "year": 1979,
-      "conflict": "Soviet Invasion of Afghanistan",
-      "location": "Afghanistan",
-      "image_url": "path/to/image_1979.jpg",
-      "description": "The Soviet invasion of Afghanistan began a conflict that would mark generations of Afghan children. Many fled to refugee camps in Pakistan, where they grew up never knowing peace.",
-      "estimated_affected": "1.5 million",
-      "sources": ["UNHCR Afghanistan Reports"]
-    },
-    {
-      "year": 1980,
+      "year": "1987-1997",
       "conflict": "Iran-Iraq War",
       "location": "Iran/Iraq",
-      "image_url": "path/to/image_1980.jpg",
-      "description": "The war between Iran and Iraq tragically involved children as civilian victims of city bombings. Both countries used child soldiers, violating children's rights.",
-      "estimated_affected": "2 million",
-      "sources": ["Human Rights Watch", "UNICEF Gulf Reports"]
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Children_In_iraq-iran_war3.jpg",
+      "description": " Military use of children in iran-iraq war in iranian fronts, unknown date ",
+      "estimated_affected": "218,867 Iranians died due to war injuries. Civilians fatalities (mostly women and children) account for 15.3% (N=33,430) of total deaths. A major consequence of these deaths was that it left more than 144,000 children orphaned.",
+      "sources": ["https://www.redalyc.org/pdf/672/67240163025.pdf"]
     },
     {
       "year": 1994,
       "conflict": "Rwandan Genocide",
       "location": "Rwanda",
-      "image_url": "path/to/image_1994.jpg",
-      "description": "During the Rwandan genocide, approximately 300,000 children were orphaned in just 100 days. Many witnessed unimaginable violence, while others were forced to participate in killings or flee to neighboring countries.",
-      "estimated_affected": "1 million",
-      "sources": ["Rwanda Tribunal Records", "UNICEF Rwanda Crisis Reports"]
+      "image_url": "https://www.doctorswithoutborders.org/sites/default/files/styles/large_image_1340_893/public/image_base_media/2019/04/MSF8150.jpg?itok=krHojYUP",
+      "description": "Countless thousands of children were slaughtered during the Rwandan genocide. Proof of the carnage was everywhere throughout the country in the months after the killing. Children were often deliberately targeted for sexual violence, torture, persecution, forcible transfer, murder and extermination.",
+      "estimated_affected": "thousands",
+      "sources": ["https://www.hrw.org/reports/2003/rwanda0403/rwanda0403-03.htm, https://www.doctorswithoutborders.org/latest/remembering-rwandan-genocide-25-years"]
     },
     {
       "year": 1999,
       "conflict": "Kosovo War",
       "location": "Kosovo/Serbia",
-      "image_url": "path/to/image_1999.jpg",
-      "description": "The conflict in Kosovo forced hundreds of thousands of Albanian children to flee their homes. Refugee camps in Macedonia and Albania hosted entire families who had lost everything.",
-      "estimated_affected": "400,000",
-      "sources": ["UNHCR Kosovo Crisis", "EU Humanitarian Reports"]
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWTUkwAumSI8kc4HJYAfPismV32AdjJ89gTw&s",
+      "description": "During the war, regime forces killed between 7,000–9,000 Kosovar Albanians,engaged in countless acts of rape,destroyed entire villages, and displaced nearly one million people. Many of the wartime rape surbivors were young girls, from 13 to 19 years old. Mostly rape were committed paramilitaries associated with Arkan (serbian warlord) group, where the majority of rapes are carried out in the presence of children and men who later were killed.",
+      "estimated_affected": "more than 1,000 children lost their lives during the conflict.",
+      "sources": ["https://www.dw.com/en/remembering-kosovos-youngest-victims/a-49119249, https://en.wikipedia.org/wiki/War_crimes_in_the_Kosovo_War"]
     },
     {
-      "year": 2001,
+      "year": "2001-2021",
       "conflict": "War in Afghanistan (post 9/11)",
       "location": "Afghanistan",
-      "image_url": "path/to/image_2001.jpg",
-      "description": "The invasion of Afghanistan after September 11th added new trauma to generations of Afghan children already marked by decades of war. Many schools were destroyed and access to education became even more limited.",
-      "estimated_affected": "3.7 million",
-      "sources": ["UN Afghanistan Reports", "Save the Children Afghanistan"]
+      "image_url": "https://www.mei.edu/sites/default/files/flickr%2520moonstarsilverwolf_4.jpg",
+      "description": "Almost 33,000 children have been killed and maimed in Afghanistan over the past 20 years, an average of one child every five hours.",
+      "estimated_affected": "33.000 children",
+      "sources": ["https://www.savethechildren.net/news/one-child-killed-or-maimed-every-5-hours-over-20-years-war-afghanistan"]
     },
-    {
-      "year": 2003,
-      "conflict": "Iraq War",
-      "location": "Iraq",
-      "image_url": "path/to/image_2003.jpg",
-      "description": "The 2003 invasion of Iraq exposed millions of Iraqi children to violence, displacement, and infrastructure destruction. Access to clean water, food, and medical care became precarious.",
-      "estimated_affected": "5 million",
-      "sources": ["UNICEF Iraq", "Iraq Body Count Project"]
-    },
-    {
-      "year": 2011,
-      "conflict": "Syrian Civil War",
-      "location": "Syria",
-      "image_url": "path/to/image_2011.jpg",
-      "description": "The beginning of the Syrian civil war marked the start of one of the most severe humanitarian crises of the 21st century. Syrian children became the most vulnerable, with millions forced to flee and deprived of education.",
-      "estimated_affected": "7.5 million",
-      "sources": ["UNICEF Syria Crisis", "Syrian Observatory for Human Rights"]
-    },
-    {
-      "year": 2014,
-      "conflict": "Rise of ISIS",
-      "location": "Iraq/Syria",
-      "image_url": "path/to/image_2014.jpg",
-      "description": "The expansion of ISIS led to severe violations of children's rights, including forced recruitment, slavery, and public executions. Yazidi children were particularly affected by genocide and trafficking.",
-      "estimated_affected": "3.2 million",
-      "sources": ["UN Commission of Inquiry", "Human Rights Watch ISIS Reports"]
-    },
+
     {
       "year": 2022,
       "conflict": "War in Ukraine",
       "location": "Ukraine",
-      "image_url": "path/to/image_2022.jpg",
-      "description": "The Russian invasion of Ukraine forced millions of Ukrainian children to flee their homes. Many lived in basements during bombings, while others were forcibly deported to Russia.",
-      "estimated_affected": "5.2 million",
-      "sources": ["UNICEF Ukraine", "UNHCR Ukraine Situation"]
+      "image_url": "https://www.unicef.org/sites/default/files/styles/open_graph_image/public/UN0770704.jpg.jpeg?itok=eU6E2tyg",
+      "description": "Average of at least 16 children killed or injured in Ukraine every week as escalation of war nears 1,000 days (2024).",
+      "estimated_affected": "659 children killed and 1,747 children injured ",
+      "sources": ["https://www.unicef.org/press-releases/average-least-16-children-killed-or-injured-ukraine-every-week-escalation-war-nears"]
     },
     {
       "year": 2023,
       "conflict": "Sudan Conflict",
       "location": "Sudan",
-      "image_url": "path/to/image_2023.jpg",
-      "description": "The civil war in Sudan severely affected children, with approximately 14 million minors in need of humanitarian assistance. Many schools were destroyed or used as shelters for displaced people.",
-      "estimated_affected": "14 million",
-      "sources": ["UNICEF Sudan", "WHO Sudan Crisis Reports"]
+      "image_url": "https://static01.nyt.com/images/2024/06/27/multimedia/27sudan-1-zmkc/27sudan-1-zmkc-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+      "description": "At least 600,000 people - half of them children - have been displaced from Al Fasher and surrounding camps in recent months. Inside the city, an estimated 260,000 civilians, including 130,000 children, remain trapped in desperate conditions, cut off from aid for more than 16 months. More than 31,000 [children] have experienced gross violations of their rights – abducted, killed and raped.",
+      "estimated_affected": "over 1,000 children killed and maimed. ",
+      "sources": ["https://www.unicef.org/press-releases/after-500-days-under-siege-children-sudans-al-fasher-face-starvation-mass. https://www.aa.com.tr/en/world/children-silent-victims-of-s-sudan-conflict-report/94485"]
     },
     {
       "year": 2024,
       "conflict": "Gaza-Israel Conflict",
       "location": "Gaza/Israel",
-      "image_url": "path/to/image_2024.jpg",
-      "description": "The escalation of conflict in October 2023 continued to severely affect children in Gaza throughout 2024. Many lost parents, homes, and access to essential services in one of the world's most densely populated territories.",
-      "estimated_affected": "1.1 million",
-      "sources": ["UNICEF State of Palestine", "WHO Gaza Health Reports"]
-    },
-    {
-      "year": 2025,
-      "conflict": "Ongoing Conflicts",
-      "location": "Global",
-      "image_url": "path/to/image_2025.jpg",
-      "description": "In 2025, it is estimated that over 450 million children live in active conflict zones worldwide. Conflicts in Ukraine, Sudan, Afghanistan, Syria, and Gaza continue to represent the main humanitarian crises affecting childhood.",
-      "estimated_affected": "450 million",
-      "sources": ["UNICEF State of World's Children 2025", "Save the Children Global Report"]
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqs0TXXUCV769w-onsgvxhlm5CUwb6m6dCjg&s",
+      "description": "20.000 children killed in 23 months of war- more than one child killed every hour.At least 42,011 children have been injured, according to the Ministry of Health, with the UN Committee on the Rights of Persons with Disabilities reporting at least 21,000 children left permanently disabled. At least 132,000 children aged under five face risk of death from acute malnutrition.",
+      "estimated_affected": "20.000",
+      "sources": ["https://www.savethechildren.net/news/gaza-20000-children-killed-23-months-war-more-one-child-killed-every-hour"]
     }
   ],
   "metadata": {
