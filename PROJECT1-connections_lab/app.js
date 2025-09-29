@@ -1,6 +1,6 @@
 //create a pop up with trigger warning
-// let a = "trigger warning: death, violence";
-// alert(a);
+let a = "trigger warning: death, violence";
+alert(a);
 
 
 let warData;
